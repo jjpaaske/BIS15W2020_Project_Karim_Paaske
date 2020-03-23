@@ -1,4 +1,4 @@
-# Hiroshima and Nagasaki Project 
+# Hiroshima and Nagasaki Cancer Project 
 
 > This is the final project for BIS 15L exploring cancer related deaths among survivors of the Hiroshima and Nagasaki Bombings using R Studio.
 
