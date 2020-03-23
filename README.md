@@ -12,7 +12,7 @@
 
 > [Personal Repository](https://github.com/lilymaryam/BIS15W2020_lkarim)
 
-## Sources
+## Source
 
 The original source for the data can be found [here](https://www.rerf.or.jp/en/library/data-en/lss10cm/)
 
