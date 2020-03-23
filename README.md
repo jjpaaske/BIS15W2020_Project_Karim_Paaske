@@ -9,7 +9,7 @@
 
 ## Sources
 
-Original Source for the data can be found [here](https://www.rerf.or.jp/en/library/data-en/lss10cm/)
+The original source for the data can be found [here](https://www.rerf.or.jp/en/library/data-en/lss10cm/)
 
 Though not an official report, we acklowedge the researchers as per their guidelines (set forth in the README).
 
