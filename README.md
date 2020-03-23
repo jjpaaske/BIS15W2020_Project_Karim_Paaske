@@ -6,11 +6,11 @@
 
 [Joshua Paaske](mailto:jjpaaske@ucdavis.edu)
 
-> [Github Repository](https://github.com/jjpaaske/BIS15W2020_jpaaske)  
+> [Personal Repository](https://github.com/jjpaaske/BIS15W2020_jpaaske)  
 
 [Lily Karim](mailto:lmkarim@ucdavis.edu)
 
-> [Github Repository](https://github.com/lilymaryam/BIS15W2020_lkarim)
+> [Personal Repository](https://github.com/lilymaryam/BIS15W2020_lkarim)
 
 ## Sources
 
